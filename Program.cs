@@ -1,11 +1,17 @@
-﻿using System;
+﻿/* Name: Daniel Cunningham
+ * Date: 2/10/2023
+ * Description: Program class that run the main driver
+ */
+
+
+using System;
 
 
 namespace CW5_Adapter_Practice {
     
     class Program
     {
-
+        // Main driver
         static void Main(string[] args)
         {
             Grizzly bear1 = new Grizzly() ;
