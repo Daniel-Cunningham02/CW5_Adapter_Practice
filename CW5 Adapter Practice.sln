@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW5 Adapter Practice", "CW5 Adapter Practice.csproj", "{29F78FF6-7F16-49B1-AB7D-914EFE021677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29F78FF6-7F16-49B1-AB7D-914EFE021677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F78FF6-7F16-49B1-AB7D-914EFE021677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F78FF6-7F16-49B1-AB7D-914EFE021677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F78FF6-7F16-49B1-AB7D-914EFE021677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C43A350-0231-4FE2-A4C2-045826E342A3}
+	EndGlobalSection
+EndGlobal
